@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there i am Tatiane 👋
+<div>
+  <a hef ="https://github.com/TatianePink">
+    <img height="180" scr= "https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
+</div>
 
 ## Minhas Estatísticas do GitHub
-![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=dark)
+![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
 
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianePink&layout=compact&theme=dark)
@@ -24,11 +28,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 estou estudando tics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
 -->
