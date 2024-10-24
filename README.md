@@ -6,6 +6,9 @@
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianePink&layout=compact&theme=dark)
 
+## Contribuições Consecutivas
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TatianePink&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **TatianePink/TatianePink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
