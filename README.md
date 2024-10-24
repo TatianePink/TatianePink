@@ -1,7 +1,11 @@
 ## Hi there i am Tatiane 👋
 <div>
   <a hef ="https://github.com/TatianePink">
-    <img height="180" scr= "https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
+    <img height="180em" scr= "https://github-readme-stats.vercel.app/api/username=TatianePink&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
+     <img height="180em" scr= "https://github-readme-stats.vercel.app/api?top-langs/?username=TatianePink=compact&langs_cont=16&theme=dracula
+</div>
+<div>
+       
 </div>
 
 ## Minhas Estatísticas do GitHub
