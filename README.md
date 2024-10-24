@@ -3,6 +3,9 @@
 ## Minhas Estatísticas do GitHub
 ![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=dark)
 
+## Linguagens Mais Usadas
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianePink&layout=compact&theme=dark)
+
 <!--
 **TatianePink/TatianePink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
