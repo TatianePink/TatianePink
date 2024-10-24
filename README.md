@@ -9,6 +9,9 @@
 ## Contribuições Consecutivas
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TatianePink&theme=dark)](https://git.io/streak-stats)
 
+## Minhas Estatísticas do GitHub com Tema Personalizado
+![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=radical)
+
 <!--
 **TatianePink/TatianePink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
