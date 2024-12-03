@@ -1,4 +1,6 @@
-## Hi there i am Tatiane 👋
+## Oi eu sou a Tatiane👋
+Carioca estudante de tecnologia
+Atualmente estudando desenvolvimento fulstack no serratec :computer: :octocat:
 <div>
   <a hef ="https://github.com/TatianePink">
     <img height="180em" scr= "https://github-readme-stats.vercel.app/api/username=TatianePink&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
@@ -6,14 +8,11 @@
 </div>
 
 
-## Minhas Estatísticas do GitHub
-![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=dracula&include_all_commits=true&cont_private=true"/>
 
 ## Linguagens Mais Usadas
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianePink&layout=compact&theme=dark)
 
-## Contribuições Consecutivas
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TatianePink&theme=dark)](https://git.io/streak-stats)
+
 
 ## Minhas Estatísticas do GitHub com Tema Personalizado
 ![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianePink&show_icons=true&theme=radical)
