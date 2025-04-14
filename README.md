@@ -1,6 +1,6 @@
 ## Oi, eu sou a Tatiane 👋
 Carioca estudante de tecnologia  
-Atualmente estudando desenvolvimento fullstack  :computer: :octocat:
+Atualmente estudando desenvolvimento Low-Code e IA  :computer: :octocat:
 
 <div>
   <a href="https://github.com/TatianePink">
